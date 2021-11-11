@@ -40,7 +40,7 @@ It is a popular approach in deep learning where pre-trained models are used as t
 VGG-19 is a convolutional neural network that is 19 layers (16 convolution layers, 3 Fully connected layer, 5 MaxPool layers and 1 SoftMax layer) deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database [1]. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 224-by-224. 
 
 ARCHITECTURE:
-![alt text] (https://iq.opengenus.org/content/images/2020/02/Screenshot-from-2020-02-22-16-25-15.png)
+![alt text](https://iq.opengenus.org/content/images/2020/02/Screenshot-from-2020-02-22-16-25-15.png)
 
 ## ABOUT THE COMPETITION:
 a repository of segmented cells from the thin blood smear slide images from the Malaria Screener research activity. The smartphone’s built-in camera acquired images of slides for each microscopic field of view. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand. The de-identified images and annotations are archived at NLM
